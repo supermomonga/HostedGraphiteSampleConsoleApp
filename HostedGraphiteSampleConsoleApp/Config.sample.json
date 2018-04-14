@@ -1,0 +1,7 @@
+﻿{
+  "api_access_interval":  5000,
+  "hosted_graphite_hostname": "xxxxxx.carbon.hostedgraphite.com",
+  "hosted_graphite_port": 2003,
+  "hosted_graphite_apikey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "hosted_graphite_metrics": "exchange.EXCHANGE_NAME.spread"
+}
